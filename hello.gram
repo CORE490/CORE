@@ -3,5 +3,5 @@
  * JSGF Grammar for Hello World example
  */
 grammar hello;
-public <greet> = (close|open|dog|cat);
+public <greet> = (close|open|dog|cat); 
 
