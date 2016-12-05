@@ -1,0 +1,9 @@
+#JSGF V1.0;
+/**
+ * JSGF Grammar for Hello World example
+ */
+grammar hello;
+public <greet> = (I'm hungry| Nice to meet you | The dog barked | My name is Sam | Computer Science | Programming is fun );
+
+
+
