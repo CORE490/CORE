@@ -4,4 +4,4 @@
  */
 grammar hello;
 public <greet> = (close|open|dog|cat); 
-
+ 
